@@ -4,6 +4,10 @@ Thanks to this forum
 
 https://www.photovoltaikforum.com/thread/242415-b2500-marstek-bluepalm-etc-mqtt-lokal-mit-homeassistant/
 
+0. Enable local MQTT using web tool
+
+https://tomquist.github.io/hame-relay/b2500.html
+(local copy here https://github.com/makserge/hame-relay/blob/main/docs/b2500.html)
 
 1. Create automation
 
