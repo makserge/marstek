@@ -187,7 +187,7 @@ https://tasmota.github.io/install/
 
 Update to firmware with SML support
 
-https://github.com/ottelo9/tasmota-sml-images/releases/download/V14.4.1_250215/tasmota32s2_ottelo.zip
+https://github.com/ottelo9/tasmota-sml-images/releases/download/V14.6.0_250423/tasmota32s2_ottelo_250422.zip
 
 OTA update inside Tasmota using 
 
