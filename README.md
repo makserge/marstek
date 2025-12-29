@@ -183,9 +183,9 @@ tasmota32s2_ottelo.bin
 
 In Tasmota console set parameters:
 
-1. Switch on HA discovery
+1. Switch off HA discovery and enable Tasmota discovery
 
-SetOption19 1
+SetOption19 0
 
 2. Set MQTT Update period to 10 sec
 
